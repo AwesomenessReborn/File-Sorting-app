@@ -1,4 +1,5 @@
 import tkinter as tk
+from pages.start_page import StartPage
 
 LARGE_FONT = ("Verdona", 12)
 
